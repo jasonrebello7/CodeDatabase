@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FF920B65-3880-43E8-B808-C361664A3B56</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Sorting Algorithms</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>77BC097DE40785F6A44A77AFC5B3DBD27A8B0043</key>
+		<string>https://github.com/jasonrebello7/GeneralCode.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Sorting Algorithms/Sorting Algorithms.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>77BC097DE40785F6A44A77AFC5B3DBD27A8B0043</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jasonrebello7/GeneralCode.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>77BC097DE40785F6A44A77AFC5B3DBD27A8B0043</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>77BC097DE40785F6A44A77AFC5B3DBD27A8B0043</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GeneralCode</string>
+		</dict>
+	</array>
+</dict>
+</plist>
